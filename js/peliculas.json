@@ -1,0 +1,88 @@
+{
+  "peliculas": [
+    {
+      "id": 2,
+      "caratula": "https://pics.filmaffinity.com/pulp_fiction-210382116-large.jpg",
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 4,
+      "caratula": "https://pics.filmaffinity.com/300-177205452-large.jpg",
+      "nombre": "300",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 5,
+      "caratula":"https://pics.filmaffinity.com/the_silence_of_the_lambs-767447992-large.jpg",
+      "nombre": "El silencio de los corderos",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 6,
+      "caratula":"https://pics.filmaffinity.com/forrest_gump-212765827-large.jpg",
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia"
+    },
+    {
+      "id": 7,
+      "caratula":"https://pics.filmaffinity.com/las_hurdes_tierra_sin_pan-618902623-large.jpg",
+      "nombre": "Las Hurdes",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental"
+    },
+    {
+      "id": 8,
+      "caratula": "https://pics.filmaffinity.com/titanic-702299807-large.jpg",
+      "nombre": "Titanic",
+      "director": "James Cameron",
+      "clasificacion": "Barco que se hunde"
+    },
+    {
+      "id": 9,
+      "caratula":"https://pics.filmaffinity.com/the_sixth_sense-516003703-large.jpg",
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama"
+      
+    },
+    {
+      "id": 10,
+      "caratula":"https://pics.filmaffinity.com/sagan-889271028-large.jpg",
+      "nombre": "Sagan",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama"
+      
+    },
+    {
+      "id": 11,
+      "caratula":"https://pics.filmaffinity.com/batman-910896570-large.jpg",
+      "nombre": "Batman",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama"
+      
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ]
+}

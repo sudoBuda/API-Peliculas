@@ -1,0 +1,11 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.banner {
+	background: url(../assets/bg-test.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.budaLogo {
+	width: 10vw;
+}
